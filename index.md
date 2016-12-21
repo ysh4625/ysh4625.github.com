@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/ysh4625/ysh4625.github.com
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Markdown
-<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_South_Korea_(1948).svg/900px-Flag_of_South_Korea_(1948).svg.png" alt="Screenshot"/>
+<img src="https://github.com/ysh4625/ysh4625.github.com/blob/master/apple-touch-startup-image-640x920.png?raw=true" alt="Screenshot"/>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
